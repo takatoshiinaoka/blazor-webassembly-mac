@@ -1,0 +1,1 @@
+/Users/takatoshiinaoka/Desktop/project/Sample1/bin/Release/net7.0/publish/web.config
